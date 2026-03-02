@@ -2,8 +2,6 @@
 
 Real-time wildlife detection system using drone RGB / thermal video feed.
 
-Built to assist wildlife officials in Botswana track animals entering human zones.
-
 ---
 
 ## 🚀 Features (Current)
